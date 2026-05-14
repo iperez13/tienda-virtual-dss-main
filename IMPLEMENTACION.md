@@ -184,7 +184,7 @@ La configuracion actual usa una suite minima y no requiere `cypress/support/e2e.
 
 ## 8. GitHub Actions
 
-Archivo principal:
+Archivo principal::::
 
 ```text
 .github/workflows/ci-cd.yml
